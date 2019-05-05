@@ -1,0 +1,34 @@
+﻿{
+ "system": {
+   "version": "1.0",
+   "date": "05.05.2019"},
+
+ "folders": [ 
+   "Reports_XFW",
+   "profile",
+   "HARDTM",
+   "Wotspeak Mod Pack",
+   "MultiPack",
+   "JovesModPack",
+   "Install_Amway921_Modpack",
+   "SoloModPack",
+   "WGMods Essentials",
+   "Vspishka_Modpack",
+   "ADBokaT57_ModPack",
+   "ModPack_Piranhas",
+   "Lom-uninstall",
+   "webium",
+   "webium-download",
+   "Textures,mod_config",
+   "Shaders"],
+
+ "files": [ 
+   "d3d11.dll",
+   "d3d11.ini",
+   "d3d9.dll",
+   "d3d9.ini",
+   "d3d11.log",
+   "Reshade_3_setting.ini",
+   "ReShadeGUI.ini",
+   "SweetFX_32X64_UNIVERSAL.exe"]
+}
