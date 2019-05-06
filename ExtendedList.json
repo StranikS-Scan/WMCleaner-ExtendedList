@@ -21,7 +21,8 @@
    "Lom-uninstall",
    "webium",
    "webium-download",
-   "Textures,mod_config",
+   "Textures",
+   "mod_config",
    "Shaders"],
 
  "files": [ 
