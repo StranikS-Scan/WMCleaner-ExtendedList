@@ -1,10 +1,12 @@
 ﻿{
  "system": {
    "version": "1.0",
-   "date": "05.05.2019"},
+   "date": "06.05.2019"},
 
- "folders": [ 
+ "folders": [
+   "Reports", 
    "Reports_XFW",
+   "netreports",
    "profile",
    "HARDTM",
    "Wotspeak Mod Pack",
