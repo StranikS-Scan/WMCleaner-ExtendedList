@@ -1,7 +1,7 @@
 ﻿{
  "system": {
-   "version": "1.0",
-   "date": "06.05.2019"},
+   "version": "1.0",      //Don't change!
+   "date": "06.05.2019"}, //Update when changing list
 
  "folders": [
    "Reports", 
