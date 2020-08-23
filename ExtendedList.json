@@ -1,7 +1,7 @@
 ﻿{
  "system": {
    "version": "1.0",      //Don't change!
-   "date": "06.05.2019"}, //Update when changing list
+   "date": "24.08.2020"}, //Update when changing list
 
  "folders": [
    "Reports", 
@@ -33,5 +33,7 @@
    "d3d11.log",
    "Reshade_3_setting.ini",
    "ReShadeGUI.ini",
-   "SweetFX_32X64_UNIVERSAL.exe"]
+   "SweetFX_32X64_UNIVERSAL.exe",
+   "unins000.exe",
+   "unins000.dat"]
 }
