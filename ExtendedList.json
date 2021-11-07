@@ -1,7 +1,7 @@
 ﻿{
  "system": {
    "version": "1.0",      //Don't change!
-   "date": "24.08.2020"}, //Update when changing list
+   "date": "07.11.2021"}, //Update when changing list
 
  "folders": [
    "Reports", 
@@ -26,6 +26,7 @@
    "Shaders"],
 
  "files": [ 
+   "voip-*.txt",
    "d3d11.dll",
    "d3d11.ini",
    "d3d9.dll",
