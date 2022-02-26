@@ -1,9 +1,10 @@
 ﻿{
  "system": {
    "version": "1.0",      //Don't change!
-   "date": "07.11.2021"}, //Update when changing list
+   "date": "26.02.2022"}, //Update when changing list
 
  "folders": [
+   "xvm_uninst",
    "Reports", 
    "Reports_XFW",
    "netreports",
@@ -26,6 +27,7 @@
    "Shaders"],
 
  "files": [ 
+   "readme*.txt",
    "voip-*.txt",
    "d3d11.dll",
    "d3d11.ini",
