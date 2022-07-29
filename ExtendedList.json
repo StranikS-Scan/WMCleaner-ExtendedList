@@ -1,7 +1,7 @@
 ﻿{
  "system": {
    "version": "1.0",      //Don't change!
-   "date": "26.02.2022"}, //Update when changing list
+   "date": "29.07.2022"}, //Update when changing list
 
  "folders": [
    "xvm_uninst",
@@ -20,6 +20,7 @@
    "ADBokaT57_ModPack",
    "ModPack_Piranhas",
    "Lom-uninstall",
+   "Stealthz-uninstall",
    "webium",
    "webium-download",
    "Textures",
