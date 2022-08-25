@@ -1,7 +1,7 @@
 ﻿{
  "system": {
    "version": "1.0",      //Don't change!
-   "date": "29.07.2022"}, //Update when changing list
+   "date": "25.08.2022"}, //Update when changing list
 
  "folders": [
    "xvm_uninst",
@@ -39,5 +39,6 @@
    "ReShadeGUI.ini",
    "SweetFX_32X64_UNIVERSAL.exe",
    "unins000.exe",
-   "unins000.dat"]
+   "unins000.dat",
+   "wot_asn.udf"]
 }
