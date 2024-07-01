@@ -1,7 +1,7 @@
 ﻿{
  "system": {
    "version": "1.0",      //Don't change!
-   "date": "25.08.2022"}, //Update when changing list
+   "date": "01.07.2024"}, //Update when changing list
 
  "folders": [
    "xvm_uninst",
@@ -40,5 +40,5 @@
    "SweetFX_32X64_UNIVERSAL.exe",
    "unins000.exe",
    "unins000.dat",
-   "wot_asn.udf"]
+   "wot_asn*.udf"]
 }
